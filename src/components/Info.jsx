@@ -8,8 +8,8 @@ function Info() {
   };
 
   return (
-    <div className="bg-gray-50 min-h-screen flex items-center justify-center">
-      <div className="max-w-3xl w-full bg-white shadow-lg rounded-lg p-6">
+    <div className="bg-[url('/doctor2.jpg')] bg-cover bg-center min-h-screen flex items-center justify-center">
+      <div className="max-w-3xl w-full bg-white bg-opacity-90 shadow-lg rounded-lg p-6">
         <h2 className="text-3xl font-bold text-blue-600 mb-4 text-center">
           Deep Learning in Dermatology
         </h2>
